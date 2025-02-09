@@ -1,7 +1,9 @@
 # Flappy-bird-generic-algorithm
 
 
-https://github.com/user-attachments/assets/0bd17aa2-902d-49e3-abd8-dc7ed7522a69
+https://github.com/user-attachments/assets/593abe25-4e50-4a81-91a1-5806d55c1c29
+
+
 
 
 Instructions
